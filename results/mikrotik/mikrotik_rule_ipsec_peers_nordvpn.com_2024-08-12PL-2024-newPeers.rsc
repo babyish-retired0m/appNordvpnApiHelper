@@ -1,0 +1,25 @@
+/ip ipsec peer
+add name="986916_PL" address="pl204.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="986919_PL" address="pl205.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="986922_PL" address="pl206.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="986925_PL" address="pl207.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1001473_PL" address="pl222.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1001476_PL" address="pl223.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1001479_PL" address="pl224.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1001482_PL" address="pl225.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1002778_PL" address="pl226.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1002781_PL" address="pl227.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1003946_PL" address="pl230.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1003947_PL" address="pl231.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1003948_PL" address="pl232.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1003949_PL" address="pl233.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1003950_PL" address="pl234.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1003951_PL" address="pl235.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1003952_PL" address="pl236.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1004017_PL" address="pl237.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1004018_PL" address="pl238.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1004019_PL" address="pl239.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1004020_PL" address="pl240.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1004021_PL" address="pl241.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1004022_PL" address="pl242.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
+add name="1004023_PL" address="pl243.nordvpn.com" comment="Poland" profile=NordVPN exchange-mode=ike2 send-initial-contact=yes disabled=yes
